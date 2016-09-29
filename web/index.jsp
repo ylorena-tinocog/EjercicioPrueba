@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Prueba Exposicion Ing de software</h1>
     </body>
 </html>
